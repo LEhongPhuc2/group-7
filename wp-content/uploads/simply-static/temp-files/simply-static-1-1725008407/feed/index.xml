@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>G7-Store</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Tue, 27 Aug 2024 04:36:15 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/05/cropped-cropped-logoo-32x32.png</url>
+	<title>G7-Store</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hỗ Trợ Khách Hàng</title>
+		<link>/2024/08/27/ho-tro-khach-hang/</link>
+					<comments>/2024/08/27/ho-tro-khach-hang/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 27 Aug 2024 04:35:12 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">/?p=1714</guid>
+
+					<description><![CDATA[Chào mừng bạn đến với G7-Store! Chúng tôi cảm thấy khá may mắn vì bạn đã chọn chúng tôi. Thay mặt công ty tôi xin cảm ơn tới bạnĐể giúp bạn phát triển tốt hơn, tôi muốn chia sẻ với bạn một số tài nguyên tốt nhất để bạn có thể tận dụng tối đa...]]></description>
+										<content:encoded><![CDATA[<p>Chào mừng bạn đến với G7-Store! Chúng tôi cảm thấy khá may mắn vì bạn đã chọn chúng tôi. Thay mặt công ty tôi xin cảm ơn tới bạn<br />Để giúp bạn phát triển tốt hơn, tôi muốn chia sẻ với bạn một số tài nguyên tốt nhất để bạn có thể tận dụng tối đa trải nghiệm của mình. Bạn có thể theo dõi blog của chúng tôi <a href="http://lgroup-7/" data-wplink-url-error="true">/</a> để biết một số mẹo và kiến thức tuyệt vời để thành công trong ngành của bạn. Và liên kết vớiFacebook của chúng tôi  <a href="https://www.facebook.com/le.hongphuc.3158">https://www.facebook.com/le.hongphuc.3158</a> để biết liều tin tức hàng ngày, lời khuyên bổ ích. Nếu bạn muốn tìm hiểu thêm về sản phẩm vui lòng liên hệ với tôi.</p><p></p>]]></content:encoded>
+					
+					<wfw:commentRss>/2024/08/27/ho-tro-khach-hang/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1714</post-id>	</item>
+		<item>
+		<title>Chào tất cả mọi người!</title>
+		<link>/2024/05/03/chao-moi-nguoi/</link>
+					<comments>/2024/05/03/chao-moi-nguoi/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 06:51:36 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
+										<content:encoded><![CDATA[<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>]]></content:encoded>
+					
+					<wfw:commentRss>/2024/05/03/chao-moi-nguoi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1</post-id>	</item>
+	</channel>
+</rss>
